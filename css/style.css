@@ -26,7 +26,7 @@ font-size: 10px;
 @font-face {
     font-family: 'Breaking B';
     src: local('Breaking B')
-    url(../fonts/Breaking/Bad.ttf) format('truetype');
+    url(../fonts/Breaking:Bad.ttf) format('truetype');
 }
 
 #frase{

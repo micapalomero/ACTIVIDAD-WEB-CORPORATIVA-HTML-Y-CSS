@@ -24,8 +24,8 @@ font-size: 10px;
 }
 
 @font-face {
-    font-family: 'Breaking B';
-    src: local('Breaking B')
+    font-family: 'Breaking:Bad';
+    src: local('Breaking:Bad')
     url(../fonts/Breaking:Bad.ttf) format('truetype');
 }
 
@@ -33,7 +33,7 @@ font-size: 10px;
     text-align: center;
     color: white;
     font-size: 35px;
-    font-family: 'Breaking B';  
+    font-family: 'Breaking:Bad';  
 }
 
 
